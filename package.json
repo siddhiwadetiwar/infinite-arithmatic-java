@@ -1,0 +1,14 @@
+{
+  "name": "infinite-arithmatic-java",
+  "version": "0.0.1",
+  "description": "using java for infinite arithmatic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java"
+  ],
+  "author": "siddhi w",
+  "license": "ISC"
+}
